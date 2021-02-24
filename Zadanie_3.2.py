@@ -1,4 +1,4 @@
-print("second_commit")
+print("third_commit")
 
 lista_zakupow = {'piekarnia': ['chleb', 'pączek', 'bułki'], 'warzywniak': ['marchew', 'seler', 'rukola']}
 for number in lista_zakupow:
